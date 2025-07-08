@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[6704],{8074:e=>{e.exports=JSON.parse('{"title":"Welcome","description":"Docusaurus blogging features are powered by the blog plugin.","link":"/blog/welcome"}')}}]);

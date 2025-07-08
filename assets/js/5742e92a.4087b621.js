@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[6581],{9093:s=>{s.exports=JSON.parse('{"title":"Long Blog Post","description":"This is the summary of a very long blog post,","link":"/blog/long-blog-post"}')}}]);
