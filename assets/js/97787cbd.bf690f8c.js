@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[1922],{3961:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Los \xfaltimos art\xedculos publicados por Soviets","blogTitle":"Blog Soviets"}}')}}]);
